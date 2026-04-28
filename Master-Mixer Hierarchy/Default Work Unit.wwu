@@ -32,6 +32,9 @@
 												</Folder>
 											</ChildrenList>
 										</Folder>
+										<Bus Name="Props" ID="{D545C04A-F46E-4501-85CA-8C8EA379E786}">
+											<ObjectLists/>
+										</Bus>
 									</ChildrenList>
 								</Folder>
 								<Bus Name="Music" ID="{9A4B5254-C741-456B-BA93-5A0232D1FCAF}">
