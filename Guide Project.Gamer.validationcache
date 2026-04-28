@@ -1,5 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="103">
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Virtual Acoustics\Factory Acoustic Textures.wwu" DateLow="1743326268" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Virtual Acoustics\Default Work Unit.wwu" DateLow="1777426876" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Triggers\Default Work Unit.wwu" DateLow="1777426876" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Switches\Default Work Unit.wwu" DateLow="1777427098" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\States\Default Work Unit.wwu" DateLow="1777426876" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1777426876" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\SoundBanks\Default Work Unit.wwu" DateLow="1777426876" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Queries\Factory Queries.wwu" DateLow="1743326268" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Queries\Default Work Unit.wwu" DateLow="1777426876" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Presets\Factory Spatial Audio.wwu" DateLow="1743326268" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Presets\Factory Reflect.wwu" DateLow="1743326302" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Presets\Default Work Unit.wwu" DateLow="1777426876" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Modulators\Default Work Unit.wwu" DateLow="1777426876" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Mixing Sessions\Default Work Unit.wwu" DateLow="1777426876" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Metadata\Default Work Unit.wwu" DateLow="1777426876" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1777427080" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1777426876" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Guide Project.wproj" DateLow="1777426900" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Guide Project.Gamer.wsettings" DateLow="1777427136" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1743326304" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Game Parameters\Factory Motion.wwu" DateLow="1772338504" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Game Parameters\Default Work Unit.wwu" DateLow="1777427126" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Events\Default Work Unit.wwu" DateLow="1777426876" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Effects\Factory Reflect.wwu" DateLow="1743326302" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Effects\Factory McDSP Effects.wwu" DateLow="1743326312" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Effects\Factory Mastering Suite.wwu" DateLow="1743326302" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1743326308" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1743326308" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1743326308" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Effects\Factory iZotope Filters.wwu" DateLow="1743326308" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Effects\Factory iZotope Dynamics.wwu" DateLow="1743326308" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Effects\Factory iZotope Delay.wwu" DateLow="1743326308" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Effects\Factory iZotope Box Modeler.wwu" DateLow="1743326308" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Effects\Factory Effects.wwu" DateLow="1743326268" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Effects\Factory Auro Headphone.wwu" DateLow="1743326306" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Effects\Default Work Unit.wwu" DateLow="1777426876" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1777426876" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1743326268" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Conversion Settings\Default Work Unit.wwu" DateLow="1777426876" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Control Surface Sessions\Default Work Unit.wwu" DateLow="1777426876" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Audio Devices\Default Work Unit.wwu" DateLow="1777426900" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Attenuations\Default Work Unit.wwu" DateLow="1777426876" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1743326268" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1743326304" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Actor-Mixer Hierarchy\Factory Motion.wwu" DateLow="1777426900" DateHigh="0"/>
+	<ValidationCacheItem File="E:\github\PD3WwiseProject\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1777426876" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\stick\Desktop\simple edition guide\Guide Project\Virtual Acoustics\Factory Acoustic Textures.wwu" DateLow="1743304669" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\stick\Desktop\simple edition guide\Guide Project\Virtual Acoustics\Default Work Unit.wwu" DateLow="1777405276" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\stick\Desktop\simple edition guide\Guide Project\Triggers\Default Work Unit.wwu" DateLow="1777405276" DateHigh="0"/>

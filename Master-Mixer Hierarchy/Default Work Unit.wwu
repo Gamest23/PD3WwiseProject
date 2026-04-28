@@ -21,6 +21,17 @@
 												</Bus>
 											</ChildrenList>
 										</Folder>
+										<Folder Name="Characters" ID="{4CA28423-CD45-4920-AEFB-81C095DDD5E8}" ShortID="52538040">
+											<ChildrenList>
+												<Folder Name="Char_NPC" ID="{C7691BF9-CBEE-429D-BD7E-01EF2DA754E1}" ShortID="540519358">
+													<ChildrenList>
+														<Bus Name="Footsteps_NPC" ID="{29A2994A-1589-4E01-9CFB-CFD34BD5A7FE}">
+															<ObjectLists/>
+														</Bus>
+													</ChildrenList>
+												</Folder>
+											</ChildrenList>
+										</Folder>
 									</ChildrenList>
 								</Folder>
 								<Bus Name="Music" ID="{9A4B5254-C741-456B-BA93-5A0232D1FCAF}">
