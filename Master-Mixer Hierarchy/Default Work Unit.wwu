@@ -35,6 +35,9 @@
 										<Bus Name="Props" ID="{D545C04A-F46E-4501-85CA-8C8EA379E786}">
 											<ObjectLists/>
 										</Bus>
+										<Bus Name="Low_LevelSFX" ID="{69E68F2C-D672-4355-9C70-2AAE6CB4953E}">
+											<ObjectLists/>
+										</Bus>
 									</ChildrenList>
 								</Folder>
 								<Bus Name="Music" ID="{9A4B5254-C741-456B-BA93-5A0232D1FCAF}">
