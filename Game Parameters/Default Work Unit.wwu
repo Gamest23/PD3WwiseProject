@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{1450A349-1EA4-452A-9A1C-35A58BFAC8BE}" SchemaVersion="103">
+	<GameParameters>
+		<WorkUnit Name="Default Work Unit" ID="{1450A349-1EA4-452A-9A1C-35A58BFAC8BE}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Global" ID="{6A6F7B2A-F423-49F9-B137-572F2F10A7CA}" ShortID="1031542569">
+					<ChildrenList>
+						<GameParameter Name="global_obstruction" ID="{F6B66767-433F-4A84-A832-F31BD70817C1}">
+							<PropertyList>
+								<Property Name="BindToBuiltInParam" Type="int16" Value="5"/>
+								<Property Name="InitialValue" Type="Real64" Value="80"/>
+								<Property Name="RTPCRamping" Type="int16" Value="2"/>
+							</PropertyList>
+						</GameParameter>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{19EB03C1-77ED-4DB4-B970-02597C27AED1}" SchemaVersion="103">
+	<Busses>
+		<WorkUnit Name="Default Work Unit" ID="{19EB03C1-77ED-4DB4-B970-02597C27AED1}" PersistMode="Standalone">
+			<ChildrenList>
+				<Bus Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}">
+					<ReferenceList>
+						<Reference Name="AudioDevice">
+							<ObjectRef Name="System" ID="{1B27529D-4613-47D2-836F-90FB5FA42828}" WorkUnitID="{644CA516-3284-4F88-B73C-A092B04A48C4}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Folder Name="Main" ID="{73C5C58A-A54C-425F-8FAB-B9EC65399AA1}" ShortID="984777932">
+							<ChildrenList>
+								<Folder Name="SFX" ID="{16D60552-66BA-4F70-9C8F-F91A555FF1B4}" ShortID="725851826">
+									<ChildrenList>
+										<Folder Name="Environments" ID="{4E511A29-1072-4282-8068-0CA0EFA30411}" ShortID="232603452">
+											<ChildrenList>
+												<Bus Name="Emitters" ID="{D3848031-0D2F-43D4-87A8-F6EEA2AF037F}">
+													<ObjectLists/>
+												</Bus>
+											</ChildrenList>
+										</Folder>
+									</ChildrenList>
+								</Folder>
+								<Bus Name="Music" ID="{9A4B5254-C741-456B-BA93-5A0232D1FCAF}">
+									<ObjectLists/>
+								</Bus>
+								<Bus Name="VO" ID="{0D131C13-EDC0-4542-866A-4892C4D3F99F}">
+									<ChildrenList>
+										<Folder Name="VO_NPC" ID="{63831547-4D6F-4F1D-B22D-E824D798E050}" ShortID="1000810175">
+											<ChildrenList>
+												<Bus Name="NPC_Level" ID="{B3960C32-621A-40BD-A7A8-BFF8ADC7192C}">
+													<ObjectLists/>
+												</Bus>
+												<Bus Name="NPC_System" ID="{5F5899D2-19BA-43D3-BC14-382E4C8D88FD}">
+													<ObjectLists/>
+												</Bus>
+											</ChildrenList>
+										</Folder>
+										<AuxBus Name="VO_Outdoor_Delay" ID="{DEBC4013-39D5-4C72-8950-C4A7572CBE13}">
+											<ObjectLists/>
+										</AuxBus>
+									</ChildrenList>
+									<ObjectLists/>
+								</Bus>
+							</ChildrenList>
+						</Folder>
+					</ChildrenList>
+					<ObjectLists/>
+				</Bus>
+				<Bus Name="Motion Factory Bus" ID="{2AF9B9C6-6EF1-46E9-B5F2-E30C9E602C74}">
+					<ReferenceList>
+						<Reference Name="AudioDevice">
+							<ObjectRef Name="Default_Motion_Device" ID="{54340BDD-9E2B-4E2B-90E0-D03BBB2B8161}" WorkUnitID="{644CA516-3284-4F88-B73C-A092B04A48C4}"/>
+						</Reference>
+					</ReferenceList>
+					<ObjectLists/>
+				</Bus>
+			</ChildrenList>
+		</WorkUnit>
+	</Busses>
+</WwiseDocument>
