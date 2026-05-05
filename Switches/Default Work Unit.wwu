@@ -132,7 +132,7 @@
 						<Switch Name="shield_frag_grenade" ID="{F45CDCC8-6C59-421B-B614-2F318098294A}"/>
 						<Switch Name="bulldozer_shove_attack" ID="{E3BFA5AA-0743-4275-A7B4-4E7815EE6932}"/>
 						<Switch Name="bulldozer_taunt_player_flashbang" ID="{7710396C-A266-4227-B2BE-3AAEFBCDFFB5}"/>
-						<Switch Name="gnd_flash_grenade" ID="{0D1ACF1D-057B-4921-8398-5FF92DF2689D}"/>
+						<Switch Name="gnd_drop_flash_grenade" ID="{0D1ACF1D-057B-4921-8398-5FF92DF2689D}"/>
 						<Switch Name="gnd_throw_flash_grenade" ID="{7584D522-AEA6-4AAD-B41B-CCEC51439A68}"/>
 						<Switch Name="shield_disoriented_stun_mine" ID="{0C7D0BB1-7D04-4AA6-9B28-D30733195FAA}"/>
 						<Switch Name="bulldozer_post_kill_taunt" ID="{B371749C-FF6C-4608-9091-264E9C0CA48E}"/>
