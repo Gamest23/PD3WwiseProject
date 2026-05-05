@@ -14,9 +14,12 @@
 							<ChildrenList>
 								<Folder Name="SFX" ID="{16D60552-66BA-4F70-9C8F-F91A555FF1B4}" ShortID="725851826">
 									<ChildrenList>
-										<Folder Name="Environments" ID="{4E511A29-1072-4282-8068-0CA0EFA30411}" ShortID="232603452">
+										<Folder Name="Environment" ID="{4E511A29-1072-4282-8068-0CA0EFA30411}" ShortID="232603452">
 											<ChildrenList>
 												<Bus Name="Emitters" ID="{D3848031-0D2F-43D4-87A8-F6EEA2AF037F}">
+													<ObjectLists/>
+												</Bus>
+												<Bus Name="Alarms" ID="{3C9673CF-FAB8-48B1-83D0-F39F64F2527E}">
 													<ObjectLists/>
 												</Bus>
 											</ChildrenList>
