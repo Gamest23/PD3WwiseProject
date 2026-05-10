@@ -172,7 +172,6 @@
 						<Switch Name="anticipation" ID="{7EAA6DCF-AA1C-4315-8F43-EC36D7741160}"/>
 						<Switch Name="assault" ID="{2F00086A-CB4C-41DE-A093-7049A4F7A7FA}"/>
 						<Switch Name="control" ID="{08B62061-94DD-4617-BBD8-C99DE095B560}"/>
-						<Switch Name="stealth" ID="{8DCDE779-F2A2-446E-903B-91164CFAE103}"/>
 						<Switch Name="suspense1" ID="{89D6D3B2-FB28-4B70-9E89-B90D8C2A8B5E}"/>
 						<Switch Name="suspense2" ID="{31F7F149-8FB7-4995-8DE0-02A7C0AA1710}"/>
 						<Switch Name="suspense3" ID="{56179ACD-AB8A-4359-A10C-19B8EE813096}"/>
