@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{4430E980-6497-453B-9D19-6ED04B14B32F}" SchemaVersion="103">
 	<States>
-		<WorkUnit Name="Default Work Unit" ID="{4430E980-6497-453B-9D19-6ED04B14B32F}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{4430E980-6497-453B-9D19-6ED04B14B32F}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="system_state" ID="{265E256D-C841-46DE-89BB-32F259EB5F03}">
+					<ChildrenList>
+						<State Name="None" ID="{EA101829-0A21-49B3-B60D-5F2F9426E6EE}"/>
+						<State Name="whisper" ID="{2E46D530-4E97-449B-A256-4B7151053BE7}"/>
+						<State Name="control" ID="{914C7966-3803-4BFB-B406-753B2B6314B2}"/>
+						<State Name="assault" ID="{DB29045D-F555-4987-872E-5EC2A2E9C345}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
 	</States>
 </WwiseDocument>

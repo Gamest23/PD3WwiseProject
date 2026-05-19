@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{86680341-145F-4A49-A112-F9F8E16DAB33}" SchemaVersion="103">
+	<GameParameters>
+		<WorkUnit Name="NC_Music" ID="{86680341-145F-4A49-A112-F9F8E16DAB33}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="NC_Music_Distance_1" ID="{CBECC054-3F21-4735-A601-F5CB9109FE0E}">
+					<PropertyList>
+						<Property Name="BindToBuiltInParam" Type="int16" Value="1"/>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+						<Property Name="Max" Type="Real64" Value="4500"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="NC_Music_Distance_2" ID="{6CCCA575-BB1A-40A2-BA2F-188080FF596D}">
+					<PropertyList>
+						<Property Name="BindToBuiltInParam" Type="int16" Value="1"/>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+						<Property Name="Max" Type="Real64" Value="4500"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>
