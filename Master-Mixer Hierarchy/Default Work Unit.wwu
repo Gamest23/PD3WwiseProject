@@ -48,7 +48,21 @@
 								</Bus>
 								<Bus Name="VO" ID="{0D131C13-EDC0-4542-866A-4892C4D3F99F}">
 									<ChildrenList>
-										<Folder Name="VO_NPC" ID="{63831547-4D6F-4F1D-B22D-E824D798E050}" ShortID="1000810175">
+										<AuxBus Name="VO_Outdoor_Delay" ID="{DEBC4013-39D5-4C72-8950-C4A7572CBE13}">
+											<ObjectLists/>
+										</AuxBus>
+										<Bus Name="VO_Player" ID="{119C4466-C0F8-43B6-9254-DCDC2800B0F0}">
+											<ChildrenList>
+												<Bus Name="Player_Level" ID="{53D30223-F4A7-42AA-B1AD-7487F917B123}">
+													<ObjectLists/>
+												</Bus>
+												<Bus Name="Player_System" ID="{31F7CDB9-BE75-470D-A855-25824835F599}">
+													<ObjectLists/>
+												</Bus>
+											</ChildrenList>
+											<ObjectLists/>
+										</Bus>
+										<Bus Name="VO_NPC" ID="{71AA3400-FBE4-43C5-87B5-83A85478A7CC}">
 											<ChildrenList>
 												<Bus Name="NPC_Level" ID="{B3960C32-621A-40BD-A7A8-BFF8ADC7192C}">
 													<ObjectLists/>
@@ -57,10 +71,8 @@
 													<ObjectLists/>
 												</Bus>
 											</ChildrenList>
-										</Folder>
-										<AuxBus Name="VO_Outdoor_Delay" ID="{DEBC4013-39D5-4C72-8950-C4A7572CBE13}">
 											<ObjectLists/>
-										</AuxBus>
+										</Bus>
 									</ChildrenList>
 									<ObjectLists/>
 								</Bus>
