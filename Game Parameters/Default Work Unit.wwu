@@ -14,6 +14,11 @@
 						</GameParameter>
 					</ChildrenList>
 				</Folder>
+				<Folder Name="Ducking" ID="{7E75CE7B-8ADB-4E32-B418-D0B7732FD174}" ShortID="451110457">
+					<ChildrenList>
+						<GameParameter Name="ducking_music" ID="{33ED79C7-45E5-4EB3-A6A1-3A6A36BD8038}"/>
+					</ChildrenList>
+				</Folder>
 			</ChildrenList>
 		</WorkUnit>
 	</GameParameters>

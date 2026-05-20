@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{B948FB2F-F18E-45BB-8FF4-24C9D0B129D2}" SchemaVersion="103">
 	<Effects>
-		<WorkUnit Name="Default Work Unit" ID="{B948FB2F-F18E-45BB-8FF4-24C9D0B129D2}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{B948FB2F-F18E-45BB-8FF4-24C9D0B129D2}" PersistMode="Standalone">
+			<ChildrenList>
+				<Effect Name="Sociopath_Effect" ID="{AF658212-9258-4DD3-A515-D936BE76C3CC}" PluginName="Wwise Meter" CompanyID="0" PluginID="129" PluginType="3"/>
+			</ChildrenList>
+		</WorkUnit>
 	</Effects>
 </WwiseDocument>
