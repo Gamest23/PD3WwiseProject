@@ -84,7 +84,7 @@
 				<Bus Name="Motion Factory Bus" ID="{2AF9B9C6-6EF1-46E9-B5F2-E30C9E602C74}">
 					<ReferenceList>
 						<Reference Name="AudioDevice">
-							<ObjectRef Name="Default_Motion_Device" ID="{54340BDD-9E2B-4E2B-90E0-D03BBB2B8161}" WorkUnitID="{644CA516-3284-4F88-B73C-A092B04A48C4}"/>
+							<ObjectRef Name="System" ID="{1B27529D-4613-47D2-836F-90FB5FA42828}" WorkUnitID="{644CA516-3284-4F88-B73C-A092B04A48C4}"/>
 						</Reference>
 					</ReferenceList>
 					<ObjectLists/>
