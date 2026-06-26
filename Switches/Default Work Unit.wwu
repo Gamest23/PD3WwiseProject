@@ -30,7 +30,7 @@
 						<Switch Name="cop_hear_generic" ID="{F8FC111B-20D3-4D62-AD7D-720A3F1686C0}"/>
 						<Switch Name="cop_hear_gunfire" ID="{83B9503B-9498-4595-9E18-787A1A4B123E}"/>
 						<Switch Name="cop_infra_mine" ID="{3A57AF92-D49B-4CE0-B57B-9D227EA25B63}"/>
-						<Switch Name="cop_lure_esculated" ID="{FB84A42E-0DEA-40B5-B7B7-82A6C0C93643}"/>
+						<Switch Name="cop_lure_escalated" ID="{FB84A42E-0DEA-40B5-B7B7-82A6C0C93643}"/>
 						<Switch Name="cop_lure_reaction" ID="{2147B67A-AC93-4E70-B6D4-C2A71C6CD5E7}"/>
 						<Switch Name="cop_move_cover" ID="{80B135D8-7B7B-4B98-82F1-1A13974D7E6B}"/>
 						<Switch Name="cop_move_position" ID="{199CDF97-0AA4-499F-BB22-FD4539D68F10}"/>
